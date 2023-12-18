@@ -19,6 +19,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Users_user_Desktop_Repos_Unreal_Engine_MenuSystem_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
 #define FID_Users_user_Desktop_Repos_Unreal_Engine_MenuSystem_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execJoinButtonClicked); \
+	DECLARE_FUNCTION(execHostButtonClicked); \
+	DECLARE_FUNCTION(execOnCreateSession); \
 	DECLARE_FUNCTION(execMenuSetup);
 
 
