@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\repos\\unreal engine\\menusystem\\plugins\\multiplayersessions\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayersessions\\uht\\multiplayersessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\repos\\unreal engine\\menusystem\\intermediate\\build\\win64\\x64\\menusystemeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\repos\\unreal engine\\menusystem\\plugins\\multiplayersessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayersessions\\definitions.multiplayersessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

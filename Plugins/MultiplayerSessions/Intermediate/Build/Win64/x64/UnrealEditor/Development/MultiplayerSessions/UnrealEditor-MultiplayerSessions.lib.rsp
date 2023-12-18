@@ -8,5 +8,10 @@
 /NODEFAULTLIB
 "C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Intermediate\Build\Win64\x64\MenuSystemEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
 "C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
+"C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Menu.cpp.obj"
+"C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessionsSubsystem.cpp.obj"
+"C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Menu.gen.cpp.obj"
+"C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessions.init.gen.cpp.obj"
+"C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessionsSubsystem.gen.cpp.obj"
 "C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Default.rc2.res"
 /OUT:"C:\Users\user\Desktop\Repos\Unreal Engine\MenuSystem\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\UnrealEditor-MultiplayerSessions.lib"
