@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MultiplayerSessions.cpp.obj": [
+			"MultiplayerSessions.cpp.obj"
+		]
+	}
+}
